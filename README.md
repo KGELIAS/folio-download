@@ -4,7 +4,7 @@ Studien-App für den Mac: Notizen und Datenbanken wie in Notion, auf PDFs schrei
 
 ## Herunterladen
 
-Unter **[Releases](../../releases/latest)** die Datei `Folio-0.9.0.dmg` laden.
+Unter **[Releases](../../releases/latest)** die Datei `Folio-0.10.0.dmg` laden.
 
 Voraussetzung: Mac mit Apple-Chip (M1 oder neuer).
 
